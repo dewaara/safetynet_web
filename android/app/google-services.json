@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156278743922",
+    "project_id": "digicalendar-c34fb",
+    "storage_bucket": "digicalendar-c34fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156278743922:android:e267200eaeb357ee5533eb",
+        "android_client_info": {
+          "package_name": "inc.seven.digicalendar.digi_calendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmb3tPty97gFSorOpLU98VdZNyIl6Tb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
